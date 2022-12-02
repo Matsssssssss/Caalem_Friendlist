@@ -1,14 +1,18 @@
 [
     {
         "firstname": "Joshua", "lastname": "Llante" , "age": 21,
-        "Address": "Janiuay", "Contact Number": "09876547891", "feeling": "happy" 
+        "Address": "Janiuay", "Contact Number": "09876547891",
+        "likes": "designing", "dislikes": "rainy days", "feeling": "happy"
+        
     },
     {
         "firstname": "Justin", "lastname": "Santos" , "age": 21,
-        "Address": "Pototan", "Contact Number": "09123456578", "feeling": "happy" 
+        "Address": "Pototan", "Contact Number": "09123456578",
+        "likes": "coding", "dislikes": "mistakes", "feeling": "happy"
     },
     {
         "firstname": "Shye", "lastname": "Custodio" , "age": 21,
-        "Address": "Pavia", "Contact Number": "09987649012", "feeling": "happy"  
+        "Address": "Pavia", "Contact Number": "09987649012",
+        "likes": "coding", "dislikes": "something", "feeling": "happy"  
     }
 ]
