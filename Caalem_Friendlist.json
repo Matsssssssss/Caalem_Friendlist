@@ -1,14 +1,14 @@
 [
     {
         "firstname": "Joshua", "lastname": "Llante" , "age": 21,
-        "Address": "Janiuay", "Contact Number": "09876547891" 
+        "Address": "Janiuay", "Contact Number": "09876547891", "feeling": "happy" 
     },
     {
         "firstname": "Justin", "lastname": "Santos" , "age": 21,
-        "Address": "Pototan", "Contact Number": "09123456578" 
+        "Address": "Pototan", "Contact Number": "09123456578", "feeling": "happy" 
     },
     {
         "firstname": "Shye", "lastname": "Custodio" , "age": 21,
-        "Address": "Pavia", "Contact Number": "09987649012"  
+        "Address": "Pavia", "Contact Number": "09987649012", "feeling": "happy"  
     }
 ]
